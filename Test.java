@@ -8,3 +8,5 @@ private static double getRandomDoubleBetweenRange(double min, double max){
     return x;
    console.log(x);
 }
+
+@Override
